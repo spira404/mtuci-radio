@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "баз мат.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "баз мат"
             }
           },
           {
@@ -181,6 +181,7 @@
   },
   "active": "abfde62fc63d6916",
   "lastOpenFiles": [
+    "README.md",
     "баз мат.md",
     "Excalidraw/базмат.excalidraw.md",
     "mod (сравнение по модулю).md",
@@ -206,7 +207,6 @@
     "тока плотность.md",
     "тока направление.md",
     "ток электрический.md",
-    "ток собственный.md",
-    "ток дрейфовый.md"
+    "ток собственный.md"
   ]
 }
